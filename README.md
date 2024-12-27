@@ -55,3 +55,5 @@ EDA on this data set taught me a lot about A/B testing.
 
 # Technical_SQL_Details
 
+[AB Testing MYSQL Queries.docx](https://github.com/user-attachments/files/18262635/AB.Testing.MYSQL.Queries.docx)
+
